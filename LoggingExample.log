@@ -1,0 +1,17 @@
+2022-11-14 11:57:36 | FATAL | i.T.Main | repo fatal
+2022-11-14 11:57:36 | ERROR | i.T.Main | repo error
+2022-11-14 11:57:36 | WARN  | i.T.Main | repo warn
+2022-11-14 11:57:36 | INFO  | i.T.Main | repo info
+2022-11-14 11:57:36 | DEBUG | i.T.Main | repo info
+2022-11-14 13:32:03 | FATAL | i.T.Main | repo fatal
+2022-11-14 13:32:03 | ERROR | i.T.Main | repo error
+2022-11-14 13:32:03 | WARN  | i.T.Main | repo warn
+2022-11-14 13:32:03 | INFO  | i.T.Main | repo info
+2022-11-14 13:32:03 | DEBUG | i.T.Main | repo info
+2022-11-14 13:32:25 | FATAL | i.T.Main | repo fatal
+2022-11-14 13:32:25 | ERROR | i.T.Main | repo error
+2022-11-14 13:32:25 | WARN  | i.T.Main | repo warn
+2022-11-14 13:32:25 | INFO  | i.T.Main | repo info
+2022-11-14 13:32:47 | FATAL | i.T.Main | repo fatal
+2022-11-14 13:32:47 | ERROR | i.T.Main | repo error
+2022-11-14 13:32:47 | WARN  | i.T.Main | repo warn
