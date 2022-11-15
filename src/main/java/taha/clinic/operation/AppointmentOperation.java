@@ -1,5 +1,6 @@
 package taha.clinic.operation;
 
+import taha.clinic.entity.*;
 import taha.clinic.entity.enums.AppointmentType;
 import taha.clinic.menu.AppointmentMenu;
 import taha.clinic.menu.PatientMenu;

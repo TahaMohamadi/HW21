@@ -1,5 +1,8 @@
 package taha.clinic.operation;
 
+import taha.clinic.entity.MedicalRecord;
+import taha.clinic.entity.Patient;
+import taha.clinic.entity.Prescription;
 import taha.clinic.repository.medicalRecord.impl.MedicalRecordRepoImpl;
 import taha.clinic.repository.patient.impl.PatientRepoImpl;
 import taha.clinic.repository.prescription.impl.PrescriptionRepoImpl;
@@ -28,4 +31,6 @@ public class PrescriptionOperation {
             });
         });
     }
+
+
 }

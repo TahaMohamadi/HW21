@@ -14,7 +14,7 @@ import java.util.List;
 @Getter
 @Setter
 @ToString
-public class Course extends BaseEntity implements Serializable {
+public class Course extends BaseEntity  {
 
     private String name;
     @OneToMany(mappedBy = "course", cascade = CascadeType.ALL)

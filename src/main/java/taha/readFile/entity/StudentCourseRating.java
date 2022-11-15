@@ -13,9 +13,9 @@ import java.sql.Timestamp;
 @Getter
 @Setter
 @ToString
-public class StudentCourseRating extends BaseEntity implements Serializable {
-
+public class StudentCourseRating extends BaseEntity {
     private Double rate;
+    private Timestamp timestamp;
     private String description;
     @ManyToOne
     @MapsId("studentId")

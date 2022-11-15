@@ -1,5 +1,7 @@
 package taha.clinic.operation;
 
+import taha.clinic.entity.Clinic;
+import taha.clinic.entity.Doctor;
 import taha.clinic.repository.clinic.impl.ClinicRepoImpl;
 import taha.clinic.repository.doctor.Impl.DoctorRepoImpl;
 import taha.clinic.service.clinic.ClinicService;

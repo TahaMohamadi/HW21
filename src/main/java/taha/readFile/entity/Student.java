@@ -17,8 +17,8 @@ import java.util.List;
 public class Student extends BaseEntity implements Serializable {
 
 
-    private String firstname;
-    private String lastname;
+    private String name;
+
     @OneToMany(mappedBy = "student",cascade = CascadeType.ALL)
     @ToString.Exclude
     private List<StudentCourse> courses = new ArrayList<>();
